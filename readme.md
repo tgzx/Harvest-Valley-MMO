@@ -2,8 +2,10 @@
 
 ### Projeto de jogo single-multiplayer.
 
-- Modo história;
-- Modo competitivo rotativo com reset parcial por temporada.
+- [ ] Modo história;
+- [ ] Modo competitivo rotativo com reset parcial por temporada;
+
+- [ ] Itens.
 
 
 
@@ -23,6 +25,24 @@
 
 
 
+##### Itemização
+
+**Frutas:**
+
+- Abacate;
+- Abacaxi;
+- Acerola;
+- Beringela;
+- Buriti;
+- Babaçu;
+- Caju;
+- Cajá;
+- Coco.
+
+
+
+
+
 ### Progresso de desenvolvimento:
 
 ###### 0%
@@ -32,6 +52,3 @@
 Descrição:
 
 ###### Nem saiu do papel
-
-
-
