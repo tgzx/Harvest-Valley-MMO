@@ -56,7 +56,7 @@ Machado.
 ###### Agricultura
 
 Regador;
-
+Aspersor;
 Saco de sementes;
 
 -//-
@@ -64,8 +64,8 @@ Saco de sementes;
 ###### Pecuária
 
 Escova;
-
 Ordenhador;
+Sistema de alimentação;
 
 -//-
 
