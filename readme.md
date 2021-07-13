@@ -14,7 +14,8 @@
 
 - Cativante;
 - Mediana, com possibilidade de continuação (inserção de novas histórias para a lore);
-- Desenvolvimento de Farm.
+- Desenvolvimento de Farm;
+- Aprendizado de mecânicas de jogo.
 
 
 
